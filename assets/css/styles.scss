@@ -1,9 +1,12 @@
-// Variables
-$accent: #3a86ff;
-$dark: #121212;
-$light: #f8f9fa;
-$gray: #e1e4e8;
+---
+---
 
+:root {
+  --accent: #3a86ff;
+  --dark: #121212;
+  --light: #f8f9fa;
+  --gray: #e1e4e8;
+}
 // Base Styles
 body {
   font-family: 'Inter', sans-serif;

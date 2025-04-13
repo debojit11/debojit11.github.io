@@ -1,0 +1,74 @@
+- id: review-detector
+  title: "Fake Review Detection System"
+  type: "NLP Engineering"
+  year: 2024
+  description: "BERT-based system detecting synthetic reviews with 99% accuracy"
+  highlights:
+    - "Gradio interface processing 500+ predictions"
+    - "Dynamic confidence thresholding"
+    - "Automated dataset updates"
+  tech: ["Python", "PyTorch", "HuggingFace", "Gradio"]
+  github: "https://github.com/debojit11/Review-Detector"
+  metrics:
+    accuracy: "99%"
+    throughput: "500+ predictions/day"
+
+- id: log-classifier
+  title: "Log Classification System"
+  type: "ML Engineering"
+  year: 2023
+  description: "Hybrid regex/LLM system reducing processing costs by 40%"
+  highlights:
+    - "FastAPI REST service"
+    - "Multi-stage classification"
+    - "Cost-optimized LLM usage"
+  tech: ["Python", "FastAPI", "BERT", "DeepSeek LLM", "Regex"]
+  github: "https://github.com/debojit11/Log_Classification_System"
+  metrics:
+    accuracy: "95%"
+    efficiency: "40% cost reduction"
+
+- id: job-classifier
+  title: "Fraudulent Job Classifier"
+  type: "NLP Engineering"
+  year: 2023
+  description: "DistilBERT system achieving 100% F1-score"
+  highlights:
+    - "Streamlit bulk processing"
+    - "TF-IDF optimization"
+    - "30% false positive reduction"
+  tech: ["Python", "DistilBERT", "Streamlit", "TF-IDF"]
+  github: "https://github.com/debojit11/Fraudulent_Job_Classifier"
+  metrics:
+    f1_score: "100%"
+    accuracy: "95%+"
+
+- id: event-system
+  title: "Event Management System"
+  type: "Full-Stack Development"
+  year: 2023
+  description: "Django system boosting efficiency by 40%"
+  highlights:
+    - "Razorpay integration"
+    - "PostgreSQL optimization"
+    - "Railway.app deployment"
+  tech: ["Python", "Django", "DRF", "PostgreSQL", "Gunicorn"]
+  github: "https://github.com/debojit11/event_management_system"
+  metrics:
+    efficiency: "40% improvement"
+    response: "30% faster"
+
+- id: clinic-platform
+  title: "Clinic Management Platform"
+  type: "Full-Stack Development"
+  year: 2022
+  description: "EHR system reducing admin tasks by 40%"
+  highlights:
+    - "Redis/Celery scheduling"
+    - "Role-based access control"
+    - "Healthcare compliance"
+  tech: ["Python", "Django", "DRF", "Redis", "Celery"]
+  github: "https://github.com/debojit11/Clinic_platform"
+  metrics:
+    admin_reduction: "40%"
+    productivity: "25% boost"

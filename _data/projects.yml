@@ -26,7 +26,7 @@
   github: "https://github.com/debojit11/Log_Classification_System"
   metrics:
     accuracy: "95%"
-    efficiency: "40% cost reduction"
+    efficiency: "40% optimized workflow"
 
 - id: job-classifier
   title: "Fraudulent Job Classifier"
@@ -45,7 +45,7 @@
 
 - id: event-system
   title: "Event Management System"
-  type: "Full-Stack Development"
+  type: "Backend Development"
   year: 2024
   description: "Django system boosting efficiency by 40%"
   highlights:
@@ -60,7 +60,7 @@
 
 - id: clinic-platform
   title: "Clinic Management Platform"
-  type: "Full-Stack Development"
+  type: "Backend Development"
   year: 2024
   description: "EHR system reducing admin tasks by 40%"
   highlights:

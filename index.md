@@ -4,10 +4,30 @@ layout: home
 
 <section class="hero">
   <h1 class="gradient-text">Debojit Choudhury</h1>
-  <p class="subtitle">NLP Engineer | ML Specialist | Backend Developer</p>
+  <p class="subtitle">NLP Engineer | Backend Developer</p>
   <div class="contact-bar">
-    <a href="mailto:{{ site.email }}"><i class="fas fa-envelope"></i> {{ site.email }}</a>
-    <a href="tel:{{ site.phone }}"><i class="fas fa-phone"></i> {{ site.phone }}</a>
+    <div><i class="fas fa-envelope"></i> <a href="mailto:{{ site.email }}">{{ site.email }}</a></div>
+    <div><i class="fas fa-phone"></i> <a href="tel:{{ site.phone }}">{{ site.phone }}</a></div>
+  </div>
+</section>
+
+<section class="about-me">
+  <h2>About Me</h2>
+  <p>Hello! I’m Debojit Choudhury, an NLP Engineer and Backend Developer. With a strong background in deep learning and full-stack development, I specialize in creating scalable and efficient systems that make an impact. Here’s a snapshot of my skills and experiences.</p>
+</section>
+
+<section class="skills-section">
+  <h2>Skills</h2>
+  <div class="skills-grid">
+    <span>Python</span>
+    <span>Machine Learning</span>
+    <span>Deep Learning</span>
+    <span>Natural Language Processing</span>
+    <span>PyTorch</span>
+    <span>spaCy</span>
+    <span>Django</span>
+    <span>Linux</span>
+    <span>Git</span>
   </div>
 </section>
 

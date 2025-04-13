@@ -52,7 +52,7 @@ kramdown:
     css_class: highlight
 
 sass:
-  sass_dir: _sass
+  sass_dir: assets/css
   style: compressed
 
 # Exclude from processing.

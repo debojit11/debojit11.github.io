@@ -1,7 +1,7 @@
 - id: review-detector
   title: "Fake Review Detection System"
   type: "NLP Engineering"
-  year: 2024
+  year: 2025
   description: "BERT-based system detecting synthetic reviews with 99% accuracy"
   highlights:
     - "Gradio interface processing 500+ predictions"
@@ -16,7 +16,7 @@
 - id: log-classifier
   title: "Log Classification System"
   type: "ML Engineering"
-  year: 2023
+  year: 2025
   description: "Hybrid regex/LLM system reducing processing costs by 40%"
   highlights:
     - "FastAPI REST service"
@@ -31,7 +31,7 @@
 - id: job-classifier
   title: "Fraudulent Job Classifier"
   type: "NLP Engineering"
-  year: 2023
+  year: 2025
   description: "DistilBERT system achieving 100% F1-score"
   highlights:
     - "Streamlit bulk processing"
@@ -46,7 +46,7 @@
 - id: event-system
   title: "Event Management System"
   type: "Full-Stack Development"
-  year: 2023
+  year: 2024
   description: "Django system boosting efficiency by 40%"
   highlights:
     - "Razorpay integration"
@@ -61,7 +61,7 @@
 - id: clinic-platform
   title: "Clinic Management Platform"
   type: "Full-Stack Development"
-  year: 2022
+  year: 2024
   description: "EHR system reducing admin tasks by 40%"
   highlights:
     - "Redis/Celery scheduling"

@@ -13,19 +13,21 @@ layout: home
 
 <section class="about-me">
   <h2>About Me</h2>
-  <p>Hello! I’m Debojit Choudhury, an NLP Engineer and Backend Developer. With a strong background in deep learning and full-stack development, I specialize in creating scalable and efficient systems that make an impact. Here’s a snapshot of my skills and experiences.</p>
+  <p>Hello! I’m Debojit Choudhury, an NLP Engineer and Backend Developer. With a background in Natural Language Processing and backend development, I specialize in creating scalable and efficient systems that make an impact. Here’s a snapshot of my skills and experiences.</p>
 </section>
 
 <section class="skills-section">
   <h2>Skills</h2>
   <div class="skills-grid">
     <span>Python</span>
-    <span>Machine Learning</span>
-    <span>Deep Learning</span>
     <span>Natural Language Processing</span>
+    <span>Deep Learning</span>
+    <span>Machine Learning</span>
     <span>PyTorch</span>
+    <span>Scikit-Learn</span>
     <span>spaCy</span>
     <span>Django</span>
+    <span>SQL</span>
     <span>Linux</span>
     <span>Git</span>
   </div>

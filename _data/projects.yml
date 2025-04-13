@@ -15,7 +15,7 @@
 
 - id: log-classifier
   title: "Log Classification System"
-  type: "ML Engineering"
+  type: "NLP Engineering"
   year: 2025
   description: "Hybrid regex/LLM system reducing processing costs by 40%"
   highlights:
@@ -37,7 +37,7 @@
     - "Streamlit bulk processing"
     - "TF-IDF optimization"
     - "30% false positive reduction"
-  tech: ["Python", "DistilBERT", "Streamlit", "TF-IDF"]
+  tech: ["Python","PyTorch", "DistilBERT", "Streamlit", "TF-IDF"]
   github: "https://github.com/debojit11/Fraudulent_Job_Classifier"
   metrics:
     f1_score: "100%"

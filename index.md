@@ -60,7 +60,7 @@ layout: portfolio
     <div class="filter-buttons">
       <button class="filter-btn active" data-filter="all">All</button>
       <button class="filter-btn" data-filter="nlp">NLP Engineering</button>
-      <button class="filter-btn" data-filter="full-stack">Backend Development</button>
+      <button class="filter-btn" data-filter="Backend Development">Backend Development</button>
     </div>
     <div class="projects-grid">
       {% for project in site.data.projects %}

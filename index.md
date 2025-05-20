@@ -107,6 +107,21 @@ layout: portfolio
   <div class="container">
     <h2><i class="fas fa-briefcase"></i> Experience</h2>
     <div class="timeline">
+      <!-- Newest Experience at the Top -->
+      <div class="timeline-item">
+        <div class="timeline-marker"></div>
+        <div class="timeline-content">
+          <h3>Junior Natural Language Processing Specialist</h3>
+          <div class="timeline-date">April 2025 – May 2025</div>
+          <div class="timeline-company">Yuva Intern</div>
+          <ul>
+            <li>Built and deployed a DistilBERT-based sentiment classifier for course reviews using Hugging Face Spaces and Gradio</li>
+            <li>Integrated real-time feedback logging, correction capture, and evaluation metrics for iterative improvements</li>
+            <li>Designed an interactive web demo with secure deployment and lightweight architecture for low-latency predictions</li>
+            <li>Tools & Tech: Transformers, Gradio, Hugging Face Hub, PyTorch, CSV logging</li>
+          </ul>
+        </div>
+      </div>
       <div class="timeline-item">
         <div class="timeline-marker"></div>
         <div class="timeline-content">
@@ -131,6 +146,7 @@ layout: portfolio
     </div>
   </div>
 </section>
+
 
 <section class="contact-section">
   <div class="container">

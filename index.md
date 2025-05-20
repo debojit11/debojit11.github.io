@@ -34,7 +34,7 @@ layout: portfolio
       </div>
       <div class="summary">
         <p>NLP Engineer skilled in transformers and classical ML for text classification. Built fraud detection, log analysis, and review verification systems deployed via FastAPI/Streamlit/Gradio. Enhanced NLP pipelines with dynamic thresholding. Combines AI expertise with Django backend development.</p>
-        <a href="https://drive.google.com/file/d/1cdtleJv0dN3xuSGj7WBghtGPPtf352fq/view?usp=sharing" class="btn btn-primary" download>Download Resume</a>
+        <a href="https://drive.google.com/file/d/1u5Ao4e01O1FFeO8h3fFxJ-XNrz9M9gXq/view?usp=drive_link" class="btn btn-primary" download>Download Resume</a>
       </div>
     </div>
   </div>

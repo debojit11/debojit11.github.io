@@ -111,6 +111,20 @@ layout: portfolio
       <div class="timeline-item">
         <div class="timeline-marker"></div>
         <div class="timeline-content">
+          <h3>Machine Learning Traineeship</h3>
+          <div class="timeline-date">June 2025 – June 2025</div>
+          <div class="timeline-company">MedTourEasy</div>
+          <ul>
+            <li>Completed traineeship covering core ML concepts, supervised learning, and CNNs using Python, TensorFlow, and Keras.</li>
+            <li>Built an ASL recognition model for letters A, B, and C; achieved 91.5% test accuracy with custom CNN architecture.</li>
+            <li>Implemented data preprocessing, one-hot encoding, and misclassification analysis using Jupyter and Matplotlib.</li>
+            <li>Tools & Tech: CNN, Keras, Jupyter Notebook, Matplotlib, Python</li>
+          </ul>
+        </div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-marker"></div>
+        <div class="timeline-content">
           <h3>Junior Natural Language Processing Specialist</h3>
           <div class="timeline-date">April 2025 – May 2025</div>
           <div class="timeline-company">Yuva Intern</div>

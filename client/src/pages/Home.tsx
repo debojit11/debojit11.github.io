@@ -169,7 +169,7 @@ export default function Home() {
             <p className="hero__intro">I’m interested in the systems between intelligence and execution — thoughtful AI products, reliable retrieval, and agents that can do more than just chat.</p>
             <div className="hero__actions">
               <a className="button button--dark" href="#projects">View projects <ArrowUpRight size={17} /></a>
-              <a className="button button--yellow" href="#contact">Let’s talk <Mail size={16} /></a>
+              <a className="button button--yellow" href="mailto:debojitchoudhury117@gmail.com">Let’s talk <Mail size={16} /></a>
             </div>
           </div>
           <a className="scroll-cue" href="#about"><span className="scroll-cue__line" /> SCROLL TO EXPLORE <ChevronDown size={15} /></a>

@@ -75,7 +75,7 @@ const projects = [
     title: "ISSUETRACE",
     description:
       "Evidence-grounded LangGraph agent that investigates public GitHub issues, analyzes root causes, audits fix plans, generates constrained patches, and validates them through controlled testing in isolated historical repository workspaces.",
-    tags: ["LangGraph", "MCP", "Human-in-the-Loop", "GitHub API", "Multi-Agent"],
+    tags: ["LangGraph", "MCP", "Human-in-the-Loop", "GitHub API"],
     accent: "teal",
     glyph: "⌁",
     url: "https://github.com/debojit11/IssueTrace",
